@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3814b42b46e9b644a932e50a6aa3a9b, type: 3}
+  m_Name: PlatformerInput
+  m_EditorClassIdentifier: 
+  DeveloperDescription: Player Input Controls
+  enabled: 1
+  inputStrings:
+  - UseConstant: 1
+    ConstantValue: Jump
+    Variable: {fileID: 0}
+  - UseConstant: 1
+    ConstantValue: Fire1
+    Variable: {fileID: 0}
+  - UseConstant: 1
+    ConstantValue: Fire2
+    Variable: {fileID: 0}
+  - UseConstant: 1
+    ConstantValue: Fire3
+    Variable: {fileID: 0}
+  - UseConstant: 1
+    ConstantValue: 
+    Variable: {fileID: 0}
+  - UseConstant: 1
+    ConstantValue: Horizontal
+    Variable: {fileID: 0}
+  - UseConstant: 1
+    ConstantValue: Vertical
+    Variable: {fileID: 0}
